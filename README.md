@@ -1,14 +1,19 @@
-## Hi there 👋
+## Hi 👋
 # 👨‍💻 profile.yaml
 
 ```yaml
 identity:
   name: Tichakorn Rohsiraphisal
   codename : dxwntichakn
-  focus: [iOS Development, Web UI/UX, Robotics]
+  focus: [Micro Controller, iOS Development, FontEnd BackEnd Web&App UI/UX, Robotics]
   location: Chiang Mai, Thailand
-  mission: "I dont' wan tmy delf to be free."
-  achivement: 
+  mission: ":)"
+  achivement: Computer Olympiad Camp 1.
+              CEDT Innovation Summit 2025 : Medical Track Winner
+              I-NEWGEN Award 2026 : Medical Track Golder Medal & Winner
+              Super AI Engineer SS5 : Innovator Track Winner
+              Hylife Hackathon 2025 : Medical Track Winner
+              First Tech Challenge Thailand DECODE 2025-2026 : Inspired Award 3rd
 
 current_status:
   working_on: "Circuit Master — An educational DC circuit simulator"
