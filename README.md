@@ -22,14 +22,23 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 
 ---
 
-### 🚀 Mission Log
+### 🚀 Projects & Focus
 
-| Status | Focus Area | Description |
-| :---: | :--- | :--- |
-| 🕹️ **Building** | **Circuit Master** | Developing an educational DC circuit simulator app |
-| 🧠 **Researching**| **REBEXs** | Advancing neural network-based breast cancer screening |
-| 🤖 **Competing** | **FTC Team #24809** | Engineering and strategizing for PRC-GC-Minerva |
-| 🎨 **Designing** | **UI/UX & Web** | Delivering intuitive digital experiences and interfaces |
+**🔬 REBEXs (CSITF26 Shanghai Innovation Expo)**
+> *Currently preparing for international exhibition.*
+> Developing an advanced, neural network-based breast cancer screening system.
+
+**🤖 FTC Team #24809 PRC-GC-Minerva**
+> *Autonomous Programmer.*
+> Engineering precise pathing and automation logic for competitive robotics.
+
+**☀️ TMD Weather App**
+> *In Development.*
+> Designing and building a localized weather tracking application.
+
+**✅ Circuit Master**
+> *Completed.*
+> Designed and shipped a fully functional, educational DC circuit simulator app.
 
 ---
 
@@ -45,14 +54,16 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 
 **⚙️ Hardware & AI** <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" title="Arduino" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi" title="Raspberry Pi" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp" title="C++" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow / YOLO" />
 
 <br/>
 
-**🎨 Design & Backend** <br/>
+**🎨 Design & Cloud Workflow** <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" title="Figma" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google" title="Google Labs / Stitch" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" title="Firebase" />
 
 ---
