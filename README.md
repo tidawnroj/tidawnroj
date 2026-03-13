@@ -26,7 +26,7 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 
 **💡 ALDS (Super AI Season 5)**
 > *Track Innovator.*
-> Developing an innovative AI solution for the Super AI Season 5 competition. *(Update this to describe what ALDS does!)*
+> Developing an Automatic Lifebuoy Deployment System powered by AI to detect and assist drowning individuals.
 
 **🔬 REBEXs (CSITF26 Shanghai Innovation Expo)**
 > *Currently preparing for international exhibition.*
