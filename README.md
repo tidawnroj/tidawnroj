@@ -46,6 +46,17 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 
 ---
 
+### 🏆 Achievements & Awards
+
+* 🥇 **Winner (Track Innovator)** — Super AI Engineer Season 5
+* 🥇 **Winner (Medical Track)** — I-NEWGEN Award 2026
+* 🥇 **Winner (Medical Track)** — CEDT Innovation Summit 2025
+* 🥇 **Winner (Medical Track)** — Hylife Hackathon
+* 🥉 **3rd Place Inspire Award** — FIRST Tech Challenge (FTC) Thailand 'DECODE'
+* 💻 **Camp 1 Qualifier** — POSN Computer Olympiad
+
+---
+
 ### 🛠 Engineering Arsenal
 
 **📱 Frontend & Mobile** <br/>
