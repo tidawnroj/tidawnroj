@@ -25,8 +25,6 @@ Passionate about building intuitive software and robust hardware. I'm dedicated 
 
 ### 🛠 Tech Stack
 
-### 🛠 Tech Stack
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" title="Swift" />
   <img width="12" />
