@@ -24,9 +24,13 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 
 ### 🚀 Projects & Focus
 
+**💡 ALDS (Super AI Season 5)**
+> *Track Innovator.*
+> Developing an innovative AI solution for the Super AI Season 5 competition. *(Update this to describe what ALDS does!)*
+
 **🔬 REBEXs (CSITF26 Shanghai Innovation Expo)**
 > *Currently preparing for international exhibition.*
-> Developing an advanced, neural network-based breast cancer screening system.
+> Developing an advanced, 16-Electrodes base and neural network-based breast cancer screening system.
 
 **🤖 FTC Team #24809 PRC-GC-Minerva**
 > *Autonomous Programmer.*
@@ -34,11 +38,11 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 
 **☀️ TMD Weather App**
 > *In Development.*
-> Designing and building a localized weather tracking application.
+> Designing and building a localized weather tracking application. Collaborating with CMU.
 
 **✅ Circuit Master**
 > *Completed.*
-> Designed and shipped a fully functional, educational DC circuit simulator app.
+> Designed and shipped a fully functional, educational DC circuit simulator app for WWDC26 Student Swift Challenge.
 
 ---
 
