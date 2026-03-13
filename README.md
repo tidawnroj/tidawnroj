@@ -5,8 +5,8 @@
   <br/>
 
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/dxwntichakn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=dxwntichakn&label=Views&color=0e75b6&style=for-the-badge" alt="Views" />
+  <a href="https://github.com/tidawnroj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tidawnroj&label=Views&color=0e75b6&style=for-the-badge" alt="Views" />
 
 </div>
 
@@ -86,9 +86,9 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxwntichakn&layout=compact&theme=transparent&border_radius=5&border_color=e1e4e8" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tidawnroj&layout=compact&theme=transparent&border_radius=5&border_color=e1e4e8" alt="Top Languages" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=dxwntichakn&show_icons=true&theme=transparent&border_radius=5&border_color=e1e4e8" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tidawnroj&show_icons=true&theme=transparent&border_radius=5&border_color=e1e4e8" alt="GitHub Stats" width="45%" />
 </div>
 
 ---
@@ -96,8 +96,8 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 ### 🐍 Contribution Activity
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tidawnroj/tidawnroj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tidawnroj/tidawnroj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tidawnroj/tidawnroj/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
