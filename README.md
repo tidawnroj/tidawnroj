@@ -48,7 +48,7 @@ I am passionate about bridging the gap between robust hardware and intuitive sof
 
 ### 🏆 Achievements & Awards
 
-* 🥇 **Gold Medal 1st & NRCT Special Award** — Super AI Engineer Season 5
+* 🥇 **Gold Medal 1st & NRCT Special Award** — CSITF26
 * 🥇 **Winner (Track Innovator)** — Super AI Engineer Season 5
 * 🥇 **Winner (Medical Track)** — I-NEWGEN Award 2026
 * 🥇 **Winner (Medical Track)** — CEDT Innovation Summit 2025
